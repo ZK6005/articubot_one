@@ -1,0 +1,12 @@
+{
+    "fsn_info_type" = <*I0>;
+    geometry = "200 416 450 350 0 0  1920 966 ";
+    lastselection = (
+	"/home/chauzk/dev_ws/src/articubot_one/launch/rsp.launch.py"
+    );
+    shelfdicts = (
+    );
+    shelfheight = <*R77>;
+    singlenode = <*BN>;
+    viewtype = Browser;
+}
